@@ -1,0 +1,6 @@
+[submodule "strata-tech-resume"]
+	path = strata-tech-resume
+	url = https://github.com/pialexandraa/strata-tech-resume.git
+[submodule "dummy-resume-template"]
+	path = dummy-resume-template
+	url = https://github.com/pialexandraa/dummy-resume-template.git
