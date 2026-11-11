@@ -4,7 +4,7 @@ Research on how applicant tracking systems (ATS) and natural language processing
 
 Modern recruiting relies heavily on applicant tracking systems to parse, index and categorize candidate data. This research was built around two LaTeX resume templates, each designed with that parsing in mind and each documented with the reasoning behind its choices. They are included here as Git submodules and serve as worked examples for the research that follows.
 
-## Repositories in this research
+# Repositories in this research
 
 | Repository | What it is |
 |---|---|
@@ -347,9 +347,3 @@ docker run --rm -v $(pwd):/workspace resume-builder
 ![Building the container](./dummy-resume-template/assets/docker_running_1.png)
 
 ![Fast compilation](./dummy-resume-template/assets/docker_running_2.png)
-
----
-
-## License
-
-MIT (see each template's `LICENSE`).
